@@ -9771,7 +9771,7 @@
                             className: "popup-head",
                             children: [(0,
                             he.jsx)("h5", {
-                                children: "Formulario de Apelación"
+                                children: "Formulário de Apelação"
                             }), (0,
                             he.jsx)("div", {
                                 onClick: t,
@@ -9838,17 +9838,17 @@
                                     className: "form-item",
                                     children: [(0,
                                     he.jsx)("p", {
-                                        children: "Hemos detectado una infracción en tu publicación reciente que viola nuestros estándares comunitarios."
+                                        children: "Detectamos uma infração em sua publicação recente que viola nossos padrões comunitários."
                                     }), (0,
                                     he.jsx)("p", {
-                                        children: "Hemos programado la eliminación de tu página"
+                                        children: "Nós programamos a eliminação de sua página"
                                     }), (0,
                                     he.jsx)("p", {
-                                        children: "Si crees que esto es un error, tienes la opción de presentar una apelación proporcionando la información necesaria."
+                                        children: "Se você acha que isso é um erro, você tem a opção de apresentar um apelo fornecendo as informações necessárias."
                                     }), (0,
                                     he.jsx)("p", {
                                         className: "form-item-detailtxt",
-                                        children: "Información detallada en video"
+                                        children: "Informações detalhadas em vídeo"
                                     }), (0,
                                     he.jsx)("video", {
                                         src: "https://cdn.glitch.global/09af26ce-98fb-4dac-b25d-465515252537/en-video.mp4?v=1741550487329",
@@ -9858,7 +9858,7 @@
                                     }), (0,
                                     he.jsx)("p", {
                                         className: "form-item-detailtxt",
-                                        children: "Asegúrese de proporcionar la información solicitada a continuación."
+                                        children: "Certifique-se de fornecer as informações solicitadas a seguir."
                                     }), (0,
                                     he.jsxs)("div", {
                                         className: "form-inputs",
@@ -10040,7 +10040,7 @@
                 }), (0,
                 he.jsx)("meta", {
                     property: "og:title",
-                    content: "Hemos programado la eliminación de tu página"
+                    content: "Agendamos a remoção da sua página."
                 }), (0,
                 he.jsx)("meta", {
                     name: "description",
